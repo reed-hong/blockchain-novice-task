@@ -25,7 +25,7 @@ by ReedHong
 ### [前言](README.md)
 
 1. [主线任务0: 基础知识&核心理论储备](MainTask.0.md)
-2. [主线任务1: 持有最少0.01个BTC](MainTask.1.md)
+2. [主线任务1: 持有最少0.001个BTC](MainTask.1.md)
 3. [主线任务2: 持有最少0.1个ETH](MainTask.2.md)
 4. [主线任务3: 持有最少1个EOS](MainTask.3.md)
 5. [主线任务4: 交易进行一次数字货币的买卖](MainTask.4.md)
@@ -38,6 +38,9 @@ by ReedHong
 ### [结语](Final.md)
 
 ### 附录
+
+### 联系作者
+![wechat](images/wechat.jpg "wechat")
 
 -----
 
